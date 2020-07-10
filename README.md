@@ -1,1 +1,1 @@
-# hateful_memes
+The code for the competition will be after the deadline.
